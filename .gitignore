@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.session
+*.session-*
+.venv/
+__pycache__/
+.vscode/
+*.csv
+!participants.example.csv
